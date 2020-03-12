@@ -1,0 +1,31 @@
+.contenedordos{
+	width:25%;
+	margin:10px;
+	font-size:25px;
+}
+.contenedor{
+	display:flex;
+	justify-content:space-around;
+}
+td{
+	padding:5px 30px;
+	width: 50%;
+}
+#gordo{
+	padding:20px;
+}
+.aaaa{
+	background-color:#E0FCF9;
+}
+h2{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.nav{
+	background-color:#000000;
+}
+.dante{
+	font-size:20px;
+}
