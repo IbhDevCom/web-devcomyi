@@ -210,6 +210,7 @@ section, .section {
 
 .section-header {
     padding: 0 0 2rem 0;
+    color:#000000;
 }
 
 .section-footer {
@@ -1155,7 +1156,7 @@ nav ul li {
 
 #clients {
     padding: 2rem 0;
-    background-color: #fafafa;
+    background-color: #ffffff;
 }
 
 #clients .container {
@@ -1302,6 +1303,7 @@ nav ul li {
 
 #contact .section-header {
     padding-bottom: 0;
+    color:#ffffff;
 }
 
 #contact .form-control::-webkit-input-placeholder {
@@ -1325,7 +1327,7 @@ nav ul li {
 }
 
 #contact .section-header p {
-    color: #f0f0f0;
+    color: #ffffff;
     letter-spacing: 0.5px;
 }
 
